@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationBroadcaster</string>
+    <string name="user_inside_bus">User Inside Bus?</string>
+    <string name="Selected_Profile1">User Inside Bus</string>
+    <string name="Selected_Profile2">User Not Inside Bus</string>
+    <string name="Toast_Location_Service_Start">Starting Location Broadcaster Service</string>
+    <string name="Toast_Location_Service_Started">Location Broadcaster Service Started</string>
+    <string name="Toast_Location_Service_Halt">Location Broadcaster Service Halted</string>
+</resources>
